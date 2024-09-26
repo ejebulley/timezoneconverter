@@ -32,17 +32,22 @@ h1 {
     padding-right: 5px;
 }
 
-#time{
-    width: 94%;
-}
 
 label {
     display: block;
     margin-bottom: 5px;
 }
 
-select, input[type="time"] {
+select{
     width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+
+input[type="time"] {
+    width: 94%;
     padding: 8px;
     border: 1px solid #ccc;
     border-radius: 4px;
