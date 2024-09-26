@@ -29,7 +29,11 @@ h1 {
 
 .form-group {
     margin-bottom: 15px;
-    padding-right: 15px;
+    padding-right: 5px;
+}
+
+#time{
+    width: 94%;
 }
 
 label {
